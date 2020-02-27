@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    margin:0; padding:0;
+}
+h1{
+      text-align: center;
+      font-family: 'Spartan' ;
+      color: rgb(54, 54, 54);
+     
+}
+div{
+    width: 100%;
+    height: 1000px;
+    background-color: lavender;
+
+}
+
+main{
+    width: 100%;
+
+    height: 1000px;
+    
+}
+
+
+footer{
+    width: 1200px;
+    height: 200px;
+    
+}
+#caixa {
+    width: 70%;
+    height: 1000px;
+    margin: 0 auto;
+    text-align: center;
+}

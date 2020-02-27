@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+ul{
+    list-style: none;
+}
+
+
+.verde{
+    background-color: rgb(151, 211, 191);
+    padding: 10px;
+}
+.vermelha{
+    background-color: rgb(240, 181, 181);
+    padding: 10px;
+}
+
+
+#titulo, #subtitulo{
+    text-align: center;
+    font-family: 'Spartan', ;
+}
+
+
+#caixa{
+    width: 40%;
+    margin: 0 auto;
+    border: solid gray 2px;
+    
+}
